@@ -1,0 +1,18 @@
+{
+  "name": "armor-of-god",
+  "version": "1.0.0",
+  "description": "Armor of God — co-op action/strategy tower-defense game based on Ephesians 6:10-18",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "phaser": "^3.60.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  },
+  "license": "MIT"
+}

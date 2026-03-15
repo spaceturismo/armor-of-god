@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="64" fill="#1a1a2e"/>
+  <!-- Shield shape -->
+  <path d="M256 60 L400 130 L400 280 Q400 400 256 460 Q112 400 112 280 L112 130 Z"
+        fill="#FFD700" stroke="#DAA520" stroke-width="8"/>
+  <!-- Inner shield -->
+  <path d="M256 90 L370 148 L370 270 Q370 372 256 425 Q142 372 142 270 L142 148 Z"
+        fill="#1a1a2e"/>
+  <!-- Cross -->
+  <rect x="240" y="140" width="32" height="220" rx="4" fill="#FFD700"/>
+  <rect x="186" y="200" width="140" height="32" rx="4" fill="#FFD700"/>
+</svg>

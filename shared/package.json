@@ -1,0 +1,9 @@
+{
+  "name": "@faith-games/shared",
+  "version": "1.0.0",
+  "description": "Shared common library for faith-based Phaser 3 games",
+  "type": "module",
+  "main": "index.js",
+  "keywords": ["phaser", "games", "shared"],
+  "license": "MIT"
+}
